@@ -30,11 +30,11 @@ Jika berhasil, anda akan mempunyai file baru **namafile.c.** Di dalamnnya akan t
 
 - **Step 3**
 
-Setelah ini gw bakalan mengconversi file **namafile.c** menjadi **.so** dengan mengetik perintah **Berikut:** 
+Setelah ini gw bakalan mengconversi file **namafile.c** menjadi **.so** dengan menjalankan perintah **Berikut:** 
 ```
 cythonize -i namafile.c
 ```
-**Sebelum/Sesudah :**
+**Sebelum (Bawah) Sesudah (Atas) :**
 
 <p><img src="https://user-images.githubusercontent.com/94946818/161065018-9aa9b644-7eb6-44df-bb65-a19b7aa184a7.jpg"
 
