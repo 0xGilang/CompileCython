@@ -1,7 +1,7 @@
 # Encrypt File Python Menggunakan Cython
 - **Pendahuluan**
 
-**Cython** adalah perangkat lunak yang menghasilkan program C untuk Python. Bahasa C banyak dipakai di Linux dan mempunyai keunggulan dari segi kecepatan. Keuntungan tersebut merupakan salah satu alasan untu mentransfer bahasa Python ke C. Selain itu bisa di transfer mejadi library dengan ekstension .so
+**Cython** adalah perangkat lunak yang menghasilkan program C untuk Python. Bahasa C banyak dipakai di Linux dan mempunyai keunggulan dari segi kecepatan. Keuntungan tersebut merupakan salah satu alasan untuk mentransfer bahasa **Python ke C.** Selain itu bisa di transfer mejadi library dengan **ekstension .so**
 
 - **Step 1**
 
