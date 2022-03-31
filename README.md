@@ -36,7 +36,7 @@ cythonize -i namafile.c
 ```
 **Sebelum (Bawah) Sesudah (Atas) :**
 
-<p><img src="https://user-images.githubusercontent.com/94946818/161065018-9aa9b644-7eb6-44df-bb65-a19b7aa184a7.jpg"
+<p align="center"><img src="https://user-images.githubusercontent.com/94946818/161065018-9aa9b644-7eb6-44df-bb65-a19b7aa184a7.jpg"
 
 Cukup ezzz bukan? Semoga tutorial ini bermanfaat
 dan Jangan Lupa Follow **GitHub** Gwe Ngabs😎
@@ -53,3 +53,6 @@ dan Jangan Lupa Follow **GitHub** Gwe Ngabs😎
 <h3 align="left">Donasi💰</h3>
 * Donasi saya  <a href="https://saweria.co/AryaAdinata">DISINI!</a>
 , Atau saya akan menjamsut anda💀
+
+------
+------
