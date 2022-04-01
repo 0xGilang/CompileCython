@@ -53,6 +53,6 @@ dan Jangan Lupa Follow **GitHub** Gwe Ngabs😎
 <h3 align="left">Donasi💰</h3>
 * Donasi saya  <a href="https://saweria.co/AryaAdinata">DISINI!</a>
 , Atau saya akan menjamsut anda💀
-
+ 
 ------
 ------
